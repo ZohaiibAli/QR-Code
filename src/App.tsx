@@ -43,7 +43,6 @@ export default function App() {
         />
       </main>
 
-      <footer>© {new Date().getFullYear()} Help Ghar. All rights reserved.</footer>
     </div>
   );
 }
